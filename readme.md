@@ -25,4 +25,4 @@ What you'll find here (pre and post talk):
 
 - [ ] The slides
 
-<del>Stay tuned.</del> Enjoy!
+Stay tuned.
