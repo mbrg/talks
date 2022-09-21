@@ -16,7 +16,7 @@ In this repo you'll find:
 
 - [x] Links to demos on YouTube, articles and references
 
-- [x Source code for everything
+- [x] Source code for everything
 
 - [x] The slides
 
