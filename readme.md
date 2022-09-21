@@ -33,5 +33,5 @@ Talks:
 | 2022-08-13 | DEFCON30 | Low Code High Risk: Enterprise Domination via Low Code Abuse | [slides, demos and source code](2022-08-13_DEFCON_30/Low_Code_High_Risk) |
 | 2022-08-31 | OWASP Global AppSec APAC 2022 | Dominating the Enterprise via Low Code Abuse | [slides, demos and source code](2022-08-31_OWASP_Global_AppSec_APAC/Low_Code_Abuse) |
 | 2022-09-01 | OWASP Global AppSec APAC 2022 | No Code Risk: What Happens When We Leave No Code up for Grabs | [slides, demos and source code](2022-08-31_OWASP_Global_AppSec_APAC/Low_Code_Abuse) |
-| 2022-09-22 | Besides Singapore 2022 | Malware Powered by Windows 11 No-Code | [pre-reading recommendations](https://bsidessg.org/schedule/malware-powered-by-windows-11-no-code/) |
+| 2022-09-22 | BSides Singapore 2022 | Malware Powered by Windows 11 No-Code | [pre-reading recommendations](2022-09-22_BSides_Singapore/Malware_Powered_by_Windows_11_No_Code) |
 | 2022-10-27/28 | LASCON 2022 | No Code No Risk? What Happens When We Leave No Code up for Grabs | [abstract](https://sched.co/1AwVf) | 
