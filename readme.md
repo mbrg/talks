@@ -24,9 +24,6 @@ Stay tuned.
 
 Talks:
 
-- [Dominating the Enterprise via Low Code Abuse](Low_Code_Abuse/)
-- [No Code Risk: What Happens When We Leave No Code up for Grabs](No_Code_Risk/)
-
 | Date | Conference | Talk | Materials |
 | - | - | - | - |
 | 2022-08-13 | DEFCON30 | No-Code Malware: Windows 11 At Your Service | [slides, demos and source code](2022-08-13_DEFCON_30/No_Code_Malware) |
