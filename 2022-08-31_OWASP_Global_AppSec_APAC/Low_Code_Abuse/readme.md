@@ -1,6 +1,6 @@
 # Dominating the Enterprise via Low Code Abuse
 
-[View on OWASP Global AppSec APAC schedule](https://globalappsecapac.events.whova.com/Agenda/2553624)
+[View on OWASP Global AppSec APAC 2022 agenda](https://globalappsecapac.events.whova.com/Agenda/2553624)
 
 ## Abstract
 
