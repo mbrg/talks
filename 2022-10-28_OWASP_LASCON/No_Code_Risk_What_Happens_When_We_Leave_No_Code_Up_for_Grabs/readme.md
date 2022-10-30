@@ -1,10 +1,16 @@
 # No Code Risk: What Happens When We Leave No Code Up for Grabs
 
-[View on OWASP LASCON 2022 agenda](TBD)
+[View on OWASP LASCON 2022 agenda](https://lascon2022.sched.com/event/1AwYX/no-code-no-risk-what-happens-when-we-leave-no-code-up-for-grabs?iframe=yes&w=100%&sidebar=yes&bg=no)
 
 ## Abstract
 
-TBD
+Business professionals are no longer waiting for IT to address their needs. Instead, they are increasingly building their own applications with Low-Code/No-Code platforms. Recent surveys show that most enterprise apps are now built outside of IT by business professionals who hold no previous experience in building software.
+
+Enterprises are placing *developer-level power* in the hands of 100x *new* business developers.. What could go wrong?
+
+In this presentation, we will share extensive research on the security of Low-Code applications based on scanning >100K applications across hundreds of enterprise environments. We will demonstrate how most applications get identity, access and data flow wrong, cover a wide range of security issues found in real environments.
+
+We will share the first-ever security framework for categorization of common Low-Code security issues. We will illustrate why the involvement of AppSec teams is desperately missing from business-led development, and share stories about organizations that got it right.
 
 ## Recommended pre-reading materials
 
