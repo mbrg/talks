@@ -37,5 +37,5 @@ Talks:
 | 2022-11-02 | LowCodeCon 2022 | [How to Govern and Secure Low-Code/No-Code Apps](2022-11-02_LowCodeCon/How_to_Govern_and_Secure_Low_Code_No_Code_Apps) | V | V | To be released |
 | 2022-11-17 | OWASP Global AppSec US 2022 | [Windows RCE as a Service](2022-11-17_OWASP_Global_AppSec_US/Windows_RCE_as_a_Service) | V | V | Not recoded |
 | 2022-11-19 | BSides Vienna 0x7E6 | [No-Code Malware: Windows at Your Service](2022-11-19_BSides_Vienna_0x7E6/No_Code_Malware_Windows_at_Your_Service) | V | V | Not recorded |
-| 2022-11-19 | BSides Orlando | [No-Code Malware: Windows at Your Service](https://bsidesorlando2022.busyconf.com/proposals/630f35808c589d007f11dcc7) | | | |
+| 2022-11-19 | BSides Orlando | [No-Code Malware: Windows at Your Service](2022-11-19_BSides_Orlando/No_Code_Malware_Windows_at_Your_Service) | V | V | To be released |
 | 2023-01-05 | RSAC 365 | to be announced | | | |
