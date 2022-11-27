@@ -48,4 +48,4 @@ Finally, we will share an open-source command line tool to easily accomplish all
 
 - [Slides](/2022-11-17_OWASP_Global_AppSec_US/Windows_RCE_as_a_Service/Michael_Bargury_Windows_RCE_as_a_Service.pdf)
 
-- [Video](https://www.youtube.com/watch?v=Y3fKAgQlHvE)
+- The talk wasn't recoded, but you can find a recording of the same talk from BSides Singapore [here](https://www.youtube.com/watch?v=Y3fKAgQlHvE)
