@@ -15,3 +15,4 @@
 ## Talk materials
 
 - [Slides](/2022-11-02_LowCodeCon/How_to_Govern_and_Secure_Low_Code_No_Code_Apps/Michael_Bargury_LowCodeCon_2022)
+- [Video](https://www.youtube.com/watch?v=lgPzDD2TaCE)
