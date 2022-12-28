@@ -43,3 +43,4 @@ We will share the first-ever security framework for categorization of common Low
 ## Talk materials
 
 - [Slides](/2022-10-28_OWASP_LASCON/No_Code_Risk_What_Happens_When_We_Leave_No_Code_Up_for_Grabs/Michael_Bargury_No_Code_Risk_What_Happens_When_We_Leave_No_Code_up_for_Grabs.pdf)
+- [Video](https://www.youtube.com/watch?v=Skr4Yj3s8ms)
