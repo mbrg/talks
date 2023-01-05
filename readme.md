@@ -38,4 +38,5 @@ Talks:
 | 2022-11-17 | OWASP Global AppSec US 2022 | [Windows RCE as a Service](2022-11-17_OWASP_Global_AppSec_US/Windows_RCE_as_a_Service) | V | V | Not recoded |
 | 2022-11-19 | BSides Vienna 0x7E6 | [No-Code Malware: Windows at Your Service](2022-11-19_BSides_Vienna_0x7E6/No_Code_Malware_Windows_at_Your_Service) | V | V | Not recorded |
 | 2022-11-19 | BSides Orlando | [No-Code Malware: Windows at Your Service](2022-11-19_BSides_Orlando/No_Code_Malware_Windows_at_Your_Service) | V | V | To be released |
-| 2023-01-05 | RSAC 365 | to be announced | | | |
+| 2023-01-05 | RSAC 365 | OWASP Top 10 Security Risks for Low-code/No-code | | | |
+| 2023-02-15 | OWASP Global AppSec Dublin 2023 | Credential Sharing as a Service: the Dark Side of No Code | | | |
