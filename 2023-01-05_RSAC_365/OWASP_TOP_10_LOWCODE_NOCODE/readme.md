@@ -36,5 +36,5 @@ Discover what extensive research has revealed on the security of low-code/no-cod
 
 ## Talk materials
 
-- [Slides](/2023_01_05_RSAC_365/OWASP_TOP_10_LOWCODE_NOCODE/RSAC_365_2023_Michael_Bargury.pdf)
+- [Slides](/2023-01-05_RSAC_365/OWASP_TOP_10_LOWCODE_NOCODE/RSAC_365_2023_Michael_Bargury.pdf)
 - [Video available on RSAC 365 website](https://www.rsaconference.com/library/webcast/130-owasp-top-10-security-risks)
