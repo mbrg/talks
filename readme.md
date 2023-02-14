@@ -41,6 +41,6 @@ Talks:
 | 2023-01-05 | RSAC 365 | [OWASP Top 10 Security Risks for Low-code/No-code](2023-01-05_RSAC_365/OWASP_TOP_10_LOWCODE_NOCODE) | V | V | [V](https://www.rsaconference.com/library/webcast/130-owasp-top-10-security-risks) |
 | 2023-01-23 | Workato IL Community Event 2023 | [Automated Security Governance](2023-01-23_Workato_IL_Community/Automated_Security_Governance) | V | V | Not recorded |
 | 2023-02-15 | OWASP Global AppSec Dublin 2023 | Credential Sharing as a Service: the Dark Side of No Code | | | |
-| 2023-04-22/3 | BSidesSF 2023 | Credential Sharing as a Service: the Dark Side of No Code | Sure, Let Business Users Build Their Own. What Could Go Wrong? | | |
-| 2023-04-22/3 | BSidesSF 2023 | Credential Sharing as a Service: the Dark Side of No Code | Windows 11 At Your Service | | |
+| 2023-04-22/3 | BSidesSF 2023 | Sure, Let Business Users Build Their Own. What Could Go Wrong? | | | |
+| 2023-04-22/3 | BSidesSF 2023 | Windows 11 At Your Service | | | |
 | 2023-04-28 | RSAC 2023 | Credential Sharing as a Service: the Dark Side of No Code | | | |
