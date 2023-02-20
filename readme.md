@@ -40,7 +40,8 @@ Talks:
 | 2022-11-19 | BSides Orlando | [No-Code Malware: Windows at Your Service](2022-11-19_BSides_Orlando/No_Code_Malware_Windows_at_Your_Service) | V | V | To be released |
 | 2023-01-05 | RSAC 365 | [OWASP Top 10 Security Risks for Low-code/No-code](2023-01-05_RSAC_365/OWASP_TOP_10_LOWCODE_NOCODE) | V | V | [V](https://www.rsaconference.com/library/webcast/130-owasp-top-10-security-risks) |
 | 2023-01-23 | Workato IL Community Event 2023 | [Automated Security Governance](2023-01-23_Workato_IL_Community/Automated_Security_Governance) | V | V | Not recorded |
-| 2023-02-15 | OWASP Global AppSec Dublin 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-02-15_OWASP_Global_AppSec_Dublin/Credential_Sharing_as_a_Service) | | | |
+| 2023-02-15 | OWASP Global AppSec Dublin 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-02-15_OWASP_Global_AppSec_Dublin/Credential_Sharing_as_a_Service) | V | V | To be released |
+| 2023-02-15 | SANS Cybersecurity Leadership Summit UK 2023 | [Credential Sharing as a Service: the Dark Side of No Code](https://www.sans.org/cyber-security-training-events/cybersecurity-leadership-uk-summit-2023/) | | | |
 | 2023-04-22/3 | BSidesSF 2023 | Sure, Let Business Users Build Their Own. What Could Go Wrong? | | | |
 | 2023-04-22/3 | BSidesSF 2023 | Windows 11 At Your Service | | | |
 | 2023-04-28 | RSAC 2023 | Credential Sharing as a Service: the Dark Side of No Code | | | |
