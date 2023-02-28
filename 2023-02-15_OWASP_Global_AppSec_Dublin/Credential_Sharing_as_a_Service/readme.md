@@ -49,3 +49,5 @@ Finally, we will explore two isolation-breaking vulnerabilities that allow for p
 ## Talk materials
 
 - [Slides](/2023-02-15_OWASP_Global_AppSec_Dublin/Credential_Sharing_as_a_Service/Michael_Bargury_Credential_Sharing_as_a_Service_the_Dark_Side_of_No_Code.pdf)
+
+- [Video](https://youtu.be/AD0R4qyrh3g)
