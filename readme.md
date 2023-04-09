@@ -47,3 +47,4 @@ Talks:
 | 2023-04-23 | BSidesSF 2023 | Sure, Let Business Users Build Their Own. What Could Go Wrong? | | | |
 | 2023-04-23 | BSidesSF 2023 | Windows 11 At Your Service | | | |
 | 2023-04-28 | RSAC 2023 | Credential Sharing as a Service: the Dark Side of No Code | | | |
+| 2023-05-17 | OWASP AppSec IL 2023 | [Sure, Let Business Users Build Their Own. What Could Go Wrong?](https://owaspappsecil2023.sched.com/event/1LLBj/sure-let-business-users-build-their-own-what-could-go-wrong) | | | |
