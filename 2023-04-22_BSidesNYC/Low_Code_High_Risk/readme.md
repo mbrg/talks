@@ -49,3 +49,5 @@ Finally, we will introduce an open-source recon tool that identifies opportuniti
 ## Talk materials
 
 - [Slides](/2023-04-22_BSidesNYC/Low_Code_High_Risk/Michael_Bargury_Dominating_the_Enterprise_via_Low_Code_Abuse.pdf)
+
+- [Video](https://www.youtube.com/watch?v=j0uUpsuUoFQ)
