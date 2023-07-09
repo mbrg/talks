@@ -43,7 +43,7 @@ Talks:
 | 2023-02-15 | OWASP Global AppSec Dublin 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-02-15_OWASP_Global_AppSec_Dublin/Credential_Sharing_as_a_Service) | V | V | [V](https://youtu.be/AD0R4qyrh3g) |
 | 2023-02-28 | DC9723 | [No-Code Malware: Windows 11 At Your Service](2023-02-28_DC9723/No_Code_Malware_Windows_at_Your_Service) | V | V | Not recorded |
 | 2023-03-28 | CodeFrenzy 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-03-28_CodeFrenzy/Credential_Sharing_as_a_Service) | V | V | To be released |
-| 2023-04-18 | SANS Cybersecurity Leadership Summit UK 2023 | [Credential Sharing as a Service: the Dark Side of No Code](https://www.sans.org/cyber-security-training-events/cybersecurity-leadership-uk-summit-2023/) | | | |
+| 2023-04-18 | SANS Cybersecurity Leadership Summit UK 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-04-18_SANS_UK/Credential_Sharing_as_a_Service) | V | V | SANS CISO Network |
 | 2023-04-22 | BSidesNYC 2023 | [Low Code High Risk: Enterprise Domination via Low Code Abuse](2023-04-22_BSidesNYC/Low_Code_High_Risk) | V | V | To be released |
 | 2023-04-23 | BSidesSF 2023 | [Sure, Let Business Users Build Their Own. What Could Go Wrong?](2023-04-23_BSidesSF/Sure_Let_Business_Users_Build) | V | V | To be released |
 | 2023-04-23 | BSidesSF 2023 | [Windows 11 At Your Service](2023-04-23_BSidesSF/No_Code_Malware) | V | V | To be released |
