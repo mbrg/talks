@@ -49,3 +49,9 @@ Talks:
 | 2023-04-23 | BSidesSF 2023 | [Windows 11 At Your Service](2023-04-23_BSidesSF/No_Code_Malware) | V | V | [V](https://youtu.be/yVRglHWHLC8) |
 | 2023-04-28 | RSAC 2023 | [Credential Sharing as a Service: the Dark Side of No Code](2023-04-28_RSAC/Credential_Sharing_as_a_Service) | V | V | [V](https://www.youtube.com/watch?v=QtaA5U7LJ74) |
 | 2023-05-17 | OWASP AppSec IL 2023 | [Sure, Let Business Users Build Their Own. What Could Go Wrong?](https://owaspappsecil2023.sched.com/event/1LLBj/sure-let-business-users-build-their-own-what-could-go-wrong) | | | |
+| 2023-08-08 | BSidesLV 2023 | [All You Need is Guest: Beyond Enumeration](https://www.bsideslv.org/talks#U3MYWG) | | | |
+| 2023-08-09 | BSidesLV 2023 | [Wolves in Windows Clothing: Weaponizing Trusted Services for Stealthy Malware](https://www.bsideslv.org/talks#VFRS7E) | | | |
+| 2023-08-09 | BSidesLV 2023 | [Sure, Let Business Users Build Their Own. What Could Go Wrong?](https://www.bsideslv.org/talks#CCDUFQ) | | | |
+| 2023-08-10 | BlackHat US 2023 | [All You Need Is Guest](https://www.blackhat.com/us-23/briefings/schedule/index.html#all-you-need-is-guest-32647) | | | |
+| 2023-08-10 | BlackHat US Arsenal 2023 | [PowerGuest: AAD Guest Exploitation Beyond Enumeration](https://www.blackhat.com/us-23/arsenal/schedule/index.html#powerguest-aad-guest-exploitation-beyond-enumeration-33687) | | | |
+| 2023-10-31 | OWASP Global AppSec DC 2023 | [OWASP Low-Code No-Code Top 10](https://owasp2023globalappsecwashin.sched.com/event/1OUyz/owasp-low-code-no-code-top-10) | | | |
