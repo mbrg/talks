@@ -39,4 +39,3 @@ Business professionals are increasingly building their own applications with Low
 - [Slides](/2023-04-23_BSidesSF/Sure_Let_Business_Users_Build/Michael_Bargury_Sure_Let_Business_Users_Build_Their_Own_What_Could_Go_Wrong.pdf)
 
 - [Video](https://youtu.be/Z0RvO6s7Jxk)
-- 
