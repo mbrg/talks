@@ -1,4 +1,4 @@
-UPDATE: THIS PAGE MOVED TO MY WEBSITE [MBGSEC.COM](https://mbgsec.com/talks).
+UPDATE: THIS PAGE MOVED TO MY WEBSITE [MBGSEC.COM/TALKS](https://mbgsec.com/talks).
 
 # Talk Materials
 
